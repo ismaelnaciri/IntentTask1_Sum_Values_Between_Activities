@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IntentTask1</string>
+    <string name="value1">Value 1</string>
+    <string name="firstValueLabel">Primer Numero</string>
+    <string name="value2">Value 2</string>
+    <string name="secondValueLabel">Segon Numero</string>
+    <string name="operationButtonText">Operar</string>
+    <string name="buttonAction">Accio</string>
+</resources>
